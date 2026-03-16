@@ -1,5 +1,3 @@
-# avetisyanna
-
 Informatics and Applied Mathematics @ **YSU** | Data Analytics @ **ACA**
 
 Focusing on SQL, Python, and Tableau to turn data patterns into actionable insights.
