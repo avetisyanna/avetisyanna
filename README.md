@@ -10,6 +10,6 @@ Focusing on SQL, Python, and Tableau to turn data patterns into actionable insig
 * Data Visualization (Tableau)
 
 ### Portfolios & Connect
-* [**LinkedIn**](www.linkedin.com/in/anna-avetisyannn)
+* [**LinkedIn**](https://www.linkedin.com/in/anna-avetisyannn)
 * [**SQL Portfolio**](https://github.com/avetisyanna/sql-analytics-portfolio)
 * [**Python Portfolio**](https://github.com/avetisyanna/python-analytics-portfolio)
