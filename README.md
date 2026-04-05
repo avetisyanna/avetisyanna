@@ -1,11 +1,11 @@
-Informatics and Applied Mathematics @ **YSU** | Data Analytics @ **ACA**
+# Hi, I'm Anna 🌱
 
-Focusing on SQL, Python, and Tableau to turn data patterns into actionable insights.
+With a foundation in **Informatics and Applied Mathematics**, I enjoy solving the puzzles hidden in raw data.
 
-### Focus Areas
-* Data cleaning and transformation (SQL/PostgreSQL)
-* Exploratory Data Analysis (Python/Pandas)
-* Data Visualization (Tableau)
+### 🎯 Currently...
+* **SQL:** Working with **PostgreSQL** and **T-SQL** to clean and structure datasets for analysis.
+* **Python:** Utilizing **Pandas**, **NumPy**, and **SciPy** for data manipulation and statistical calculations.
+* **Visualization:** Applying **Tableau**, **Plotly**, and **Seaborn** to create both interactive and statistical data stories.
 
 ### Portfolios & Connect
 * [**LinkedIn**](https://www.linkedin.com/in/anna-avetisyannn)
