@@ -1,6 +1,6 @@
 # Hi, I'm Anna 🌱
 
-With a foundation in **Informatics and Applied Mathematics**, I enjoy solving the puzzles hidden in raw data.
+With a foundation in **Informatics and Applied Mathematics**
 
 ### 🎯 Currently...
 * **SQL:** Working with **PostgreSQL** and **T-SQL** to clean and structure datasets for analysis.
