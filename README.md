@@ -3,6 +3,6 @@
 With a foundation in **Informatics and Applied Mathematics**
 
 ### 🎯 Currently...
-* **SQL:** Working with **PostgreSQL** and **T-SQL** to clean and structure datasets for analysis.
-* **Python:** Utilizing **Pandas**, **NumPy**, and **SciPy** for data manipulation and statistical calculations.
-* **Visualization:** Applying **Tableau**, **Plotly**, and **Seaborn** to create both interactive and statistical data stories.
+• SQL — PostgreSQL, T-SQL, and MySQL for querying, data transformation, and analytics.
+• Python — Pandas, NumPy, and SciPy for data analysis and automation.
+• Visualization — Tableau, Plotly, and Seaborn for interactive dashboards and data storytelling.
