@@ -1,8 +1,9 @@
 # Hi, I'm Anna 🌱
 
-With a foundation in **Informatics and Applied Mathematics**
+An **Informatics and Applied Mathematics** graduate expanding my skills in **Data Analytics**, **Data Engineering**, and **Software Development**.
 
-### 🎯 Currently...
-• SQL — PostgreSQL, T-SQL, and MySQL for querying, data transformation, and analytics.
-• Python — Pandas, NumPy, and SciPy for data analysis and automation.
-• Visualization — Tableau, Plotly, and Seaborn for interactive dashboards and data storytelling.
+## 🎯 Current Focus
+
+- **SQL** — PostgreSQL, MySQL & T-SQL
+- **Python** — Pandas, NumPy & SciPy
+- **Data Visualization** — Tableau, Plotly & Seaborn
