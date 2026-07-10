@@ -7,4 +7,3 @@ Informatics and Applied Mathematics graduate exploring data analytics, data engi
 - SQL for data analysis and database querying
 - Python for data cleaning, transformation, and analysis
 - Tableau dashboards and business-focused visualizations
-- Building portfolio projects with real-world datasets
