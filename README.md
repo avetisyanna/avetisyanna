@@ -1,6 +1,6 @@
 # Hi, I'm Anna 🌱
 
-Informatics and Applied Mathematics graduate exploring data analytics, data engineering, and software development through practical projects.
+Informatics and Applied Mathematics graduate exploring data analytics, data engineering, and software development.
 
 ## Currently working on
 
